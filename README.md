@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi! I'm Tomocraft.
+### 🚀 Bedrock Addon Developer & GitHub Student
 
-<!--
-**tomocraft/tomocraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Learning: JavaScript • Java • English  
+🤖 Using: GitHub Copilot • VS Code • GitHub Pages
 
-Here are some ideas to get you started:
+📫 Connect with me:
+- 🐦 Twitter: @BreadAwful
+- 😎 Discord: awfulbread
+- 📍 From: Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 GitHub Stats
+![Tomo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomocraft&show_icons=true&theme=tokyonight)
