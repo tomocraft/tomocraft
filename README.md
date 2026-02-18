@@ -12,4 +12,4 @@
 ---
 
 ## 🛠 GitHub Stats
-![Tomo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomocraft&show_icons=true&theme=tokyonight)
+![Tomo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tomocraft&show_icons=true&theme=tokyonight)
