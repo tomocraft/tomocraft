@@ -1,6 +1,8 @@
 # 👋 Hi! I'm Tomocraft.
 ### 🚀 Bedrock Addon Developer & GitHub Student
 
+Mostly vibe coding with AI :D
+
 💡 Learning: JavaScript • Java • English  
 🤖 Using: GitHub Copilot • VS Code • GitHub Pages
 
